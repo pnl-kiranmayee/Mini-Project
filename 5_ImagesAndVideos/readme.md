@@ -30,6 +30,6 @@
 
 * __Unit Test Cases__
 
-![Unit Test Cases](https://github.com/pnl-kiranmayee/Mini-Project/blob/main/5_ImagesAndVideos/Test_cases.jpg)
+![Unit Test Cases](https://github.com/pnl-kiranmayee/Mini-Project/blob/main/5_ImagesAndVideos/Test_Cases.jpg)
 
 
