@@ -33,6 +33,6 @@
 ![Unit Test Cases](https://github.com/pnl-kiranmayee/Mini-Project/blob/main/5_ImagesAndVideos/Test_Cases.jpg)
 
 
-![](https://github.com/pnl-kiranmayee/Mini-Project/blob/main/5_ImagesAndVideos/MeetingDetails.jpg)
+![MEETING_DETAILS](https://github.com/pnl-kiranmayee/Mini-Project/blob/main/5_ImagesAndVideos/MEETING%20DETAILS.jpg)
 
 
